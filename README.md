@@ -1,3 +1,3 @@
-Desafío técnico donde evaluamos conceptos básicos sobre Python y machine learning.
+Evaluación de tendencias de fluctuación del tipo de cambio  de la moneda Argentina de acuerdo a la Moneda Oficial y el mercado alterno (Dólar Blue). Stack Python y machine learning.
 
-Descarda de data de APIs de la página https://estadisticasbcra.com/ para obtener los datos históricos, tanto del dólar oficial como del dólar blue en Argentina.
+Uso de APIs de la página https://estadisticasbcra.com/ para obtener los datos históricos, tanto del dólar oficial como del dólar blue en Argentina.
